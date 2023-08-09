@@ -16,7 +16,7 @@ Our method is extensively evaluated on two datasets, exhibiting superior perform
 
 <div align=center>
 
-![](images/hrnet.jpg)
+![](image/model.png)
 
 
 
