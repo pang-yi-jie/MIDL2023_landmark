@@ -14,7 +14,6 @@ The fine stage categorizes landmarks as independent and correlated landmarks bas
 
 Our method is extensively evaluated on two datasets, exhibiting superior performance with an average detection error of 3.29 mm and 2.13 mm, respectively.
 
-<div align=center>
 
 ![](image/model.png)
 
